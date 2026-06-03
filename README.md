@@ -1,5 +1,7 @@
 # Stait Watch App - Android Companion App
 
+<img src="assets/logo.png" alt="Stait Hub Logo" width="200">
+
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC_BY--NC_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 **Stait Watch App** is the official application for managing and synchronizing the **Stait Watch**, an open-source smartwatch based on the ESP32-S3 platform.
