@@ -35,7 +35,7 @@ You can obtain Stait Watch App in two ways:
 2. **Manual (APK)**: If you prefer direct installation, head to the [Releases](https://github.com/SantoCovato/Stait-Watch-App/releases) section of this repository, download the latest `.apk` file, and install it on your device (ensure "Install from unknown sources" is enabled in your settings).
 
 ## 🔒 Privacy and Security
-Privacy is our top priority. Stait Hub processes notifications locally on your device:
+Privacy is our top priority. Stait Watch processes notifications locally on your device:
 * **No external servers**: Your notification data never leaves your phone.
 * **Minimal permissions**: We request only the permissions necessary (Bluetooth, Notifications, Location) for the bridge to function correctly with your watch.
 
