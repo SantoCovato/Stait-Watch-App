@@ -22,7 +22,7 @@ Stait Watch App transforms your Android smartphone into a control center for you
 
 | Main Screen | Filter Management |
 | :---: | :---: |
-| ![Connection Status](assets/screen_main.png) | ![App Filter](assets/screen_filters.png) |
+| ![Connection Status](assets/main_screen_eng.jpg) | ![App Filter](assets/filter_managment_eng.jpg) |
 
 ## 📥 Installation
 You can obtain Stait Watch App in two ways:
